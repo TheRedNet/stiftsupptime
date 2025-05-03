@@ -27,7 +27,7 @@ sites:
     port: 25
     check: "tcp-ping"
     ipv6: false
-    - name: MailXchange 3 (relay.rzone.de)
+  - name: MailXchange 3 (relay.rzone.de)
     url: relay.rzone.de
     port: 25
     check: "tcp-ping"

@@ -94,19 +94,19 @@
     "url": "https://cissa.webuntis.com/WebUntis/#/basic/login",
     "icon": "https://icons.duckduckgo.com/ip3/cissa.webuntis.com.ico",
     "slug": "web-untis",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 818,
-    "timeDay": 985,
-    "timeWeek": 818,
-    "timeMonth": 818,
-    "timeYear": 818,
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 866,
+    "timeDay": 1041,
+    "timeWeek": 866,
+    "timeMonth": 866,
+    "timeYear": 866,
     "dailyMinutesDown": {
-      "2025-05-07": 0
+      "2025-05-07": 19
     }
   },
   {

@@ -94,18 +94,20 @@
     "url": "https://cissa.webuntis.com/WebUntis/#/basic/login",
     "icon": "https://icons.duckduckgo.com/ip3/cissa.webuntis.com.ico",
     "slug": "web-untis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 754,
-    "timeDay": 835,
-    "timeWeek": 754,
-    "timeMonth": 754,
-    "timeYear": 754,
-    "dailyMinutesDown": {}
+    "time": 818,
+    "timeDay": 985,
+    "timeWeek": 818,
+    "timeMonth": 818,
+    "timeYear": 818,
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   },
   {
     "name": "MailXchange 1 (mx02.stifts.net)",

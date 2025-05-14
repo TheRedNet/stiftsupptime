@@ -134,19 +134,19 @@
     "url": "mx02.stifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-xchange-2-mx02-stifts-net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 103,
-    "timeDay": 98,
-    "timeWeek": 102,
-    "timeMonth": 103,
-    "timeYear": 103,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "96.11%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
+    "time": 107,
+    "timeDay": 131,
+    "timeWeek": 109,
+    "timeMonth": 107,
+    "timeYear": 107,
     "dailyMinutesDown": {
-      "2025-05-14": 0
+      "2025-05-14": 56
     }
   },
   {

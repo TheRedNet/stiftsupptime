@@ -77,11 +77,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/04104462160.moodle.bw.schule.ico",
     "slug": "schule-bw-moodle",
     "status": "up",
-    "uptime": "99.34%",
+    "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.03%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.34%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
     "time": 3177,
     "timeDay": 3962,
     "timeWeek": 3061,
@@ -134,9 +134,9 @@
     "url": "mx02.stifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-xchange-2-mx02-stifts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -145,7 +145,9 @@
     "timeWeek": 102,
     "timeMonth": 103,
     "timeYear": 103,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-14": 0
+    }
   },
   {
     "name": "MailXchange 3 (relay.rzone.de)",

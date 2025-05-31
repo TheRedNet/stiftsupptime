@@ -17,7 +17,7 @@ sites:
     url: https://cissa.webuntis.com/WebUntis/#/basic/login
     headers:
       - 'Cookie: schoolname="_c3RpZnRzZ3ltbmFzaXVtIHNpbmRlbGZpbmdlbg=="; Tenant-Id="4068000";'
-  - name: MailXchange 1 (mx02.stifts.net)
+  - name: MailXchange 1 (mx01.stifts.net)
     url: mx01.stifts.net
     port: 25
     check: "tcp-ping"

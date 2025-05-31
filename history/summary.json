@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/intranet.stifts.net.ico",
     "slug": "intranet",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "97.05%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.87%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 993,
     "timeDay": 0,
     "timeWeek": 988,
     "timeMonth": 993,
     "timeYear": 993,
     "dailyMinutesDown": {
-      "2025-05-31": 42
+      "2025-05-31": 51
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://support.stifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/support.stifts.net.ico",
     "slug": "support-sytem",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "97.11%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 1212,
-    "timeDay": 0,
-    "timeWeek": 1247,
-    "timeMonth": 1212,
-    "timeYear": 1212,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "96.61%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 1208,
+    "timeDay": 1096,
+    "timeWeek": 1225,
+    "timeMonth": 1208,
+    "timeYear": 1208,
     "dailyMinutesDown": {
-      "2025-05-31": 42
+      "2025-05-31": 49
     }
   },
   {
@@ -124,19 +124,19 @@
     "url": "mx01.stifts.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-xchange-1-mx01-stifts-net",
-    "status": "down",
-    "uptime": "3.87%",
-    "uptimeDay": "3.87%",
-    "uptimeWeek": "3.87%",
-    "uptimeMonth": "3.87%",
-    "uptimeYear": "3.87%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "6.33%",
+    "uptimeDay": "6.33%",
+    "uptimeWeek": "6.33%",
+    "uptimeMonth": "6.33%",
+    "uptimeYear": "6.33%",
+    "time": 112,
+    "timeDay": 112,
+    "timeWeek": 112,
+    "timeMonth": 112,
+    "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-05-31": 31
+      "2025-05-31": 38
     }
   },
   {
@@ -145,18 +145,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-xchange-2-mx02-stifts-net",
     "status": "down",
-    "uptime": "97.39%",
-    "uptimeDay": "30.08%",
-    "uptimeWeek": "90.01%",
-    "uptimeMonth": "97.39%",
-    "uptimeYear": "97.39%",
+    "uptime": "97.37%",
+    "uptimeDay": "29.48%",
+    "uptimeWeek": "89.93%",
+    "uptimeMonth": "97.37%",
+    "uptimeYear": "97.37%",
     "time": 113,
     "timeDay": 0,
     "timeWeek": 118,
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2025-05-31": 1007,
+      "2025-05-31": 1016,
       "2025-05-14": 56
     }
   },

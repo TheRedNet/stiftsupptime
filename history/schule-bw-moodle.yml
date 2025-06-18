@@ -1,7 +1,7 @@
 url: https://04104462160.moodle.bw.schule
-status: up
-code: 200
-responseTime: 3002
-lastUpdated: 2025-06-17T23:16:35.586Z
+status: down
+code: 503
+responseTime: 2025
+lastUpdated: 2025-06-18T20:40:35.911Z
 startTime: 2025-05-03T16:49:44.984Z
 generator: Upptime <https://github.com/upptime/upptime>
